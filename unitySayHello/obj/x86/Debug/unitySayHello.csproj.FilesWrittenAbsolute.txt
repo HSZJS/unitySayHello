@@ -1,0 +1,5 @@
+/Users/heshuzhan/Projects/unitySayHello/unitySayHello/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/heshuzhan/Projects/unitySayHello/unitySayHello/bin/Debug/unitySayHello.exe.mdb
+/Users/heshuzhan/Projects/unitySayHello/unitySayHello/bin/Debug/unitySayHello.exe
+/Users/heshuzhan/Projects/unitySayHello/unitySayHello/obj/x86/Debug/unitySayHello.exe
+/Users/heshuzhan/Projects/unitySayHello/unitySayHello/obj/x86/Debug/unitySayHello.exe.mdb
